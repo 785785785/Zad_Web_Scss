@@ -1,0 +1,25 @@
+nav {
+    margin-top: 3*$height;
+    height: 1.9*$height;
+    padding: 0px 4*$unitPx;
+  }
+    
+  .right {
+      float: $floatR;
+    }
+  
+    .half-column {
+      display: $displayInBl;
+      width: 40%;
+      padding: 5*$unitPx 0*$unitPx $unitPx 2*$unitPx;
+    }
+    
+    .landing-copy {
+      margin-left: 7*$unitPx;
+    }
+  
+    .main-nav li {
+      display: $displayInBl;
+      padding: 0.5*$unitPx 3*$unitPx;
+      margin: $unitPx;
+    }
